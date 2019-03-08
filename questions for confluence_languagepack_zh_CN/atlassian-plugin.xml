@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<atlassian-plugin
+                  key="ipt.confluence.languagepack.zh_CN"
+                  name="Questions for Confluence \u7b80\u4f53\u4e2d\u6587\u8bed\u8a00\u5305">
+    <plugin-info>
+        <description>\u9488\u5bf9 Questions for Confluence \u0020\u63d2\u4ef6\u7b80\u4f53\u4e2d\u6587\u8bed\u8a00\u5305</description>
+        <vendor name="Coralfox" />
+        <version>1.2</version>
+    </plugin-info>
+    <language language="zh" key="zh_CN" name="\u7b80\u4f53\u4e2d\u6587\u0028\u4e2d\u56fd\u0029" country="CN"></language>
+    <resource name="i18n-0" location="com/atlassian/confluence/core/ConfluenceActionSupport" type="i18n"/>
+</atlassian-plugin>
